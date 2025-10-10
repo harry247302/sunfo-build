@@ -1,6 +1,6 @@
 data
 eslint.config.js
-index.html
+
 package.json
 public
 src
@@ -14,4 +14,3 @@ eslint.config.js
 vite.config.js  
 yarn.lock
 I-am-a-developer.md
-index.html
